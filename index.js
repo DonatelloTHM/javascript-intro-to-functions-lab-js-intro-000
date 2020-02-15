@@ -12,7 +12,7 @@ function logWhisper(string){
 }
 function sayHiToGrandma(string)
 {
-  if(string.toUpperCase())
+  if(string.UpperCase())
   {
     return "YES INDEED!";
   }
